@@ -1,0 +1,7 @@
+C:\Users\super\source\repos\LABoNE\LABoNE\bin\LABoNE.dll.config
+C:\Users\super\source\repos\LABoNE\LABoNE\bin\LABoNE.dll
+C:\Users\super\source\repos\LABoNE\LABoNE\bin\LABoNE.pdb
+C:\Users\super\source\repos\LABoNE\LABoNE\obj\Debug\LABoNE.csprojAssemblyReference.cache
+C:\Users\super\source\repos\LABoNE\LABoNE\obj\Debug\LABoNE.csproj.CoreCompileInputs.cache
+C:\Users\super\source\repos\LABoNE\LABoNE\obj\Debug\LABoNE.dll
+C:\Users\super\source\repos\LABoNE\LABoNE\obj\Debug\LABoNE.pdb
